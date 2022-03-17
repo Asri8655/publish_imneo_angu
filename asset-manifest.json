@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Asri8655/publish_imneo_angu.git/static/css/main.073c9b0a.css",
+    "main.js": "/Asri8655/publish_imneo_angu.git/static/js/main.c62680f8.js",
+    "static/js/787.564a408a.chunk.js": "/Asri8655/publish_imneo_angu.git/static/js/787.564a408a.chunk.js",
+    "index.html": "/Asri8655/publish_imneo_angu.git/index.html",
+    "main.073c9b0a.css.map": "/Asri8655/publish_imneo_angu.git/static/css/main.073c9b0a.css.map",
+    "main.c62680f8.js.map": "/Asri8655/publish_imneo_angu.git/static/js/main.c62680f8.js.map",
+    "787.564a408a.chunk.js.map": "/Asri8655/publish_imneo_angu.git/static/js/787.564a408a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c62680f8.js"
+  ]
+}
